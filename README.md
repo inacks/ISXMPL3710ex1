@@ -1,6 +1,4 @@
-# ISXMPL3710ex1
-
-# Example: Using the IS3710 I2C DMX Receiver Chip with Arduino IDE
+# Example using the IS3710 I2C DMX Receiver Chip with Arduino IDE
 
 ## Objective
 Demonstrate how to write a program for the **IS3710 I2C DMX Receiver** using the **Arduino IDE**.
